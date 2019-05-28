@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsCoursesEF", "WinFormsCoursesEF\WinFormsCoursesEF.csproj", "{191C38E3-5B06-48E9-BFB8-C2AB739D2235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursesDataEF", "CoursesDataEF\CoursesDataEF.csproj", "{7767B785-341F-455A-893C-BA0C8CC596A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191C38E3-5B06-48E9-BFB8-C2AB739D2235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191C38E3-5B06-48E9-BFB8-C2AB739D2235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191C38E3-5B06-48E9-BFB8-C2AB739D2235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191C38E3-5B06-48E9-BFB8-C2AB739D2235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7767B785-341F-455A-893C-BA0C8CC596A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7767B785-341F-455A-893C-BA0C8CC596A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7767B785-341F-455A-893C-BA0C8CC596A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7767B785-341F-455A-893C-BA0C8CC596A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53A80C9-3201-4E24-97C9-7D3306663393}
+	EndGlobalSection
+EndGlobal
